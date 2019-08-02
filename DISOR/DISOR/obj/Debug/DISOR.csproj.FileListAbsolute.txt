@@ -1,0 +1,9 @@
+c:\users\tony\documents\visual studio 2012\Projects\DISOR\DISOR\bin\Debug\DISOR.exe.config
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\DISOR\DISOR\bin\Debug\DISOR.exe
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\DISOR\DISOR\bin\Debug\DISOR.pdb
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\DISOR\DISOR\obj\Debug\DISOR.Form1.resources
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\DISOR\DISOR\obj\Debug\DISOR.Properties.Resources.resources
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\DISOR\DISOR\obj\Debug\DISOR.csproj.GenerateResource.Cache
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\DISOR\DISOR\obj\Debug\DISOR.exe
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\DISOR\DISOR\obj\Debug\DISOR.pdb
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\DISOR\DISOR\obj\Debug\DISOR.csprojResolveAssemblyReference.cache
